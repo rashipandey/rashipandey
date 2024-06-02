@@ -10,19 +10,15 @@
 
 <div align="center">
 
- 🔭 I’m currently working on an open source project
+ 🔭 I’m currently working on an **open source project**
  
  🌱 I’m currently learning **Transformer Neural Networks, Next.js, DevOps**
  
- 👯 I’m looking to collaborate on
+ 👯 I’m looking to collaborate on **Innovative Projects**
+
+ 📫 How to reach me: pandey.rashi07@gmail.com
  
- 🤔 I’m looking for help with ...
- 
- 💬 Ask me about ...
- 
- 📫 How to reach me: ...
- 
- 😄 Pronouns: ...
+ 😄 Pronouns: **She/Her**
  
  ⚡ Fun fact: ...
 </div>
