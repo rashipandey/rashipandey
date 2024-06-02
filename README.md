@@ -10,9 +10,8 @@
 
 <div align="center">
 
-
-- 🔭 I’m currently working on an open source project
-- 🌱 I’m currently learning **Transformer Neural Networks, Next.js, DevOps**
+ 🔭 I’m currently working on an open source project
+ 🌱 I’m currently learning **Transformer Neural Networks, Next.js, DevOps**
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
