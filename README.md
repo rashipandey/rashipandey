@@ -20,5 +20,5 @@
  
  😄 Pronouns: **She/Her**
  
- ⚡ Fun fact: ...
+ ⚡ Fun fact: 
 </div>
