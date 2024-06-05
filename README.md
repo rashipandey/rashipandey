@@ -10,7 +10,7 @@
 
 <div align="center">
 
- 🔭 I’m currently working on an **the F1 tenth vehicle open source project**
+ 🔭 I’m currently working on the **F1 tenth vehicle open source project**
  
  🌱 I’m currently learning **Transformer Neural Networks, Next.js, DevOps**
  
