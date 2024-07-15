@@ -10,9 +10,9 @@
 
 <div align="center">
 
- 🔭 I’m currently working on the **React front end and Node.js backend for the startup Breathing.ai**
+ 🔭 I’m currently working on the **React front end and Node.js backend for the startup, Breathing.ai**
  
- 🌱 I’m currently learning **Transformer Neural Networks, Next.js, DevOps**
+ 🌱 I have **full stack software engineering** experience and *2 years professional expereince in Spring Boot and Java*.
  
  👯 I’m looking to collaborate on **Innovative Projects**
 
