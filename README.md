@@ -10,7 +10,7 @@
 
 <div align="center">
 
- 🔭 I’m currently working on the **React front end and Node.js backend for the startup Breathing.ai **
+ 🔭 I’m currently working on the **React front end and Node.js backend for the startup Breathing.ai**
  
  🌱 I’m currently learning **Transformer Neural Networks, Next.js, DevOps**
  
