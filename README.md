@@ -10,7 +10,7 @@
 
 <div align="center">
 
- 🔭 I’m currently working on the **F1 tenth vehicle open source project**
+ 🔭 I’m currently working on the **React front end and Node.js backend for the startup Breathing.ai **
  
  🌱 I’m currently learning **Transformer Neural Networks, Next.js, DevOps**
  
@@ -20,5 +20,5 @@
  
  😄 Pronouns: **She/Her**
  
- <!---⚡ Fun fact:-->
+ ⚡ Fun fact:--> I am a dog lover and an ocaasional singer
 </div>
