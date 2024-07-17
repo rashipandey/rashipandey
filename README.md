@@ -29,7 +29,8 @@
 <a href="https://www.linkedin.com/in/rashipandey7/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
-<a href="https://rashipandey.github.io" target="_blank"><img src="https://www.flaticon.com/free-icons/portfolio">Portfolio icons created by Flat Icons - Flaticon</a>" alt="Portfolio" height="41" width="174"></a>
+  ##Portfolio - https://rashipandey.github.io/
+<!-- <a href="https://rashipandey.github.io" target="_blank"><img src="https://www.flaticon.com/free-icons/portfolio">Portfolio icons created by Flat Icons - Flaticon</a>" alt="Portfolio" height="41" width="174"></a> -->
 
 </p>
 
