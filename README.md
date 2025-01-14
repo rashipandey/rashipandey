@@ -12,7 +12,7 @@
 
  🔭 I’m currently working on the **React front end and Node.js backend for the startup, Breathing.ai** as a Software Engineer intern.
  
- 🌱 I have **full stack software engineering** experience and *2 years professional experience in Spring Boot and Java*.
+ 🌱 I have **full stack software engineering** experience and *3 years professional experience in Spring Boot and Java*.
  
  👯 I’m looking to collaborate on **Innovative Projects**
 
